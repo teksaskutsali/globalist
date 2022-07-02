@@ -1,0 +1,2 @@
+# globalist
+Talep istek
